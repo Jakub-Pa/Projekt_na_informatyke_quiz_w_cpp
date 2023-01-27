@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.24)
+project(projekt_quiz_ogolnotematyczny_zastosowanie_polskich_znakow)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(projekt_quiz_ogolnotematyczny_zastosowanie_polskich_znakow main.cpp)
