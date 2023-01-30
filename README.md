@@ -4,6 +4,5 @@ Poza tym, to program pobiera z pliku tekstowego pytania, odpowiedzi i poprawne o
 W programie znajduje się informacja, że zostały wykorzystane pytania z "Milionerów", ale można ją usunąć.
 Zmienne:
 N = ileść pytań.
-Pliki:
-Pytania.txt = pytania, odpowiedzi i poprawne odpowiedzi,
-Wyliki.txt = tabela wyników.
+Pliki:Pytania.txt = pytania, odpowiedzi i poprawne odpowiedzi,
+Wyniki.txt = tabela wyników.
